@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @joaoportela1914
-- 👀 I’m interested in 
-- 🌱 I’m currently learning As linguagens python e assemble, além de manipular banco de dados e entender sobre a arquitetura de computadores
-- 💞️ I’m looking to collaborate on desenvolvimento de códigos básicos de python e manipulação de banco de dados
-- 📫 How to reach me: email:joaoportelagr@gmail.com
-- ⚡ Fun fact:Gosto de praticar esportes e jogar videogame
+### Olá! 👋 Sou o João Portela
+
+👨‍💻 **Software Development Student | Foco em Backend (Java & Python)**
+
+Sou estudante de Ciência da Computação (3º semestre) apaixonado por tecnologia, resolução de problemas e desenvolvimento de software. Atualmente, estou focado em construir uma base sólida em desenvolvimento Backend e arquitetura de sistemas.
+
+- 🎓 Cursando **Ciência da Computação** - 🚀 Aprofundando meus estudos no ecossistema **Java** (POO, Arquitetura MVC, Spring Boot) e **Python**.
+- 📚 Atualmente me especializando através do curso *Java Completo* do Nélio Alves.
+- 🗣️ Idiomas: Português (Nativo) | **Inglês (Avançado)**.
+- ⚡ Curiosidade: Quando não estou programando, gosto de praticar esportes e jogar videogame.
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, Python
+- **Conceitos:** Orientação a Objetos, MVC, Lógica de Programação
+- **Web & Dados:** HTML, CSS, Bancos de Dados (SQL)
+- **Ferramentas:** Git, GitHub
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/jo%C3%A3o-portela-3b3508365/)
+- **E-mail:** joaoportelagr@gmail.com
 
 <!---
 joaoportela1914/joaoportela1914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
