@@ -2,7 +2,7 @@
 
 👨‍💻 **Software Development Student | Foco em Backend (Java & Python)**
 
-Sou estudante de Ciência da Computação (3º semestre) apaixonado por tecnologia, resolução de problemas e desenvolvimento de software. Atualmente, estou focado em construir uma base sólida em desenvolvimento Backend e arquitetura de sistemas.
+Sou estudante de Ciência da Computação (4º semestre) apaixonado por tecnologia, resolução de problemas e desenvolvimento de software. Atualmente, estou focado em construir uma base sólida em desenvolvimento Backend e arquitetura de sistemas.
 
 - 🎓 Cursando **Ciência da Computação** - 🚀 Aprofundando meus estudos no ecossistema **Java** (POO, Arquitetura MVC, Spring Boot) e **Python**.
 - 📚 Atualmente me especializando através do curso *Java Completo* do Nélio Alves.
